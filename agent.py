@@ -1,7 +1,7 @@
 """
 Agentic Data Analysis Loop
 A sophisticated agent that accepts high-level data analysis queries and autonomously
-executes them using Gemini and Pandas.
+executes them with Gemini and Pandas.
 """
 
 import os
