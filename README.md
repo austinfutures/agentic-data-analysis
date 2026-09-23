@@ -6,7 +6,7 @@ An autonomous agent that accepts high-level natural language data analysis reque
 
 ## Features
 
-- **Natural Language Data Queries**: Ask questions about your CSV files in plain English.
+- **Natural Language Data Queries**: Ask whatever you'd like about your CSV files in plain English.
 - **In-Memory Code Execution**: Automatically builds and executes Python Pandas queries against loaded DataFrames.
 - **Self-Correction Loop**: Catches Python runtime errors and feeds tracebacks back to Gemini to auto-fix buggy code (up to 3 iterations).
 - **Interactive Shell**: Interactive terminal UI with built-in metadata commands (`info`, `history`, `quit`).
